@@ -1,0 +1,95 @@
+.content 
+{
+    font-family: sans-serif;
+}
+
+.Logo 
+{
+    padding-left: 30px;
+    padding-top: 20px;
+    text-decoration: none;
+    font-size: 45px;
+    color: black;
+}
+
+.navL 
+{
+    float: left;
+    font-size: larger;
+    margin-top: 20px;
+    
+}
+
+.navL a 
+{
+
+    margin-left:150px;
+    text-decoration: none;
+    color: black;
+}
+
+.navR 
+{
+    float: right;
+    font-size: larger;
+    margin-top: 20px
+}
+
+.navR a 
+{
+    margin-right: 150px;
+    text-decoration: none;
+    color: black;
+}
+
+.navL a:hover 
+{
+border-bottom-style: solid;
+    
+}
+
+.navR a:hover 
+{
+border-bottom-style: solid;
+    
+}
+
+.sBar input[type=text]
+{
+    margin-left: 270px;  
+    padding-right: 300px;
+    
+}
+
+footer 
+{
+margin-top: 650px;
+margin-bottom: 120px;
+
+}
+
+footer div
+{
+    display: inline-block;
+    width: 19%;
+    text-align: center;
+}
+
+.footReg a 
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.footLogg a
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
